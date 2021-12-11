@@ -117,7 +117,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'yggdroot/indentline'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 
-"Debugging, rwfactoring and version control
+"Debugging, refactoring and version control
 Plug 'puremourning/vimspector'
 
 call plug#end()
