@@ -155,7 +155,7 @@ vnoremap <Space> zf
 
 "Autosave folds
 autocmd BufWinLeave *.* mkview
-autocmd BufWinEnter *.* silent loadview"
+autocmd BufWinEnter *.* silent loadview
 
 "Search shortcuts
 let mapleader = ","
