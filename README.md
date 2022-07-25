@@ -1,4 +1,4 @@
-# .vimrc
+# vim-ide
 
 This vim configuration file is a compilation of plugins and settings oriented to achieving a workflow close to an IDE, in order to take advantage of its lightweight nature.
 
